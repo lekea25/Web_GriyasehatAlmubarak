@@ -17,7 +17,7 @@ description: >-
 
 subdescription: >-
   Terapi Bekam adalah salah satu pengobatan tradisional yang disunnahkan oleh Nabi,
-  untuk itu hendaknya berbekam sebulan sekali apalagi pada tanggal-tanggal sunnah tentunya.
+  untuk itu hendaknya berbekam sebulan sekali apalagi pada tanggal-tanggal sunnah tentunya test test.
 intro:
   blurbs:
     - image: /img/Bekam.jpg
