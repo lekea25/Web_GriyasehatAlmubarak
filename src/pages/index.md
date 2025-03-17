@@ -1,50 +1,37 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+title: 
+image: /img/Lnc1.png
+heading: Apa itu BEKAM?
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: SELAMAT DATANG DI GRIYA SEHAT AL-MUBARAK
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Selamat Datang di GRIYA SEHAT AL-MUBARAK Dasana Xentre, destinasi utama anda untuk meraih kebugaran dan relaksasi. Kami mengundang anda untuk memasuki dunia terapi tradisional dan bekam ala Nabi yang penuh kehangatan dan 
+    kesehatan. Dimana setiap sentuhan mengalirkan energi positif dan menyegarkan tubuh. Mari kita mulai perjalanan
+    menuju kesehatan dan kebahagiaan bersama!
+
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Terapi Bekam adalah salah satu pengobatan tradisional yang disunnahkan oleh Nabi,
+  untuk itu hendaknya berbekam sebulan sekali apalagi pada tanggal-tanggal sunnah tentunya.
+
+subdescription: >-
+  Terapi Bekam adalah salah satu pengobatan tradisional yang disunnahkan oleh Nabi,
+  untuk itu hendaknya berbekam sebulan sekali apalagi pada tanggal-tanggal sunnah tentunya.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/Bekam.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Terapi Bekam ala Nabi yang menyehatkan, berilah tubuhmu hak untuk sehat untuk bisa beraktivitas tanpa adanya batas.
+    - image: /img/Titik.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+       Titik-titik tertentu yang memiliki fungsi untuk mengetahui penyakit yang sedang diderita oleh tubuh.
+    - image: /img/Alat.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Alat bekam yang memadai dan steril, juga terjamin kebersihannya. Jarum bekam yang digunakan juga steril. 
+    - image: /img/Akupuntur.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+       Terapi akupunktur adalah teknik pengobatan yang dilakukan dengan cara menusukkan jarum kecil dan halus pada titik-titik tertentu di tubuh. Di samping dapat menghilangkan rasa sakit, terapi akupunktur diketahui memiliki beragam manfaat lain untuk kesehatan.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
