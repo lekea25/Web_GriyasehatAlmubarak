@@ -1,37 +1,37 @@
 ---
 templateKey: index-page
 title: 
-image: /img/Lnc1.png
-heading: Apa itu BEKAM?
+image: /img/Banner.png
+heading: Apa itu BEKAM dan TOTOK PUNGGUNG?
 subheading: Support sustainable farming while enjoying a cup
-mainpitch:
+mainpitch: 
   title: SELAMAT DATANG DI GRIYA SEHAT AL-MUBARAK
   description: >
     Selamat Datang di GRIYA SEHAT AL-MUBARAK Dasana Xentre, destinasi utama anda untuk meraih kebugaran dan relaksasi. Kami mengundang anda untuk memasuki dunia terapi tradisional dan bekam ala Nabi yang penuh kehangatan dan 
     kesehatan. Dimana setiap sentuhan mengalirkan energi positif dan menyegarkan tubuh. Mari kita mulai perjalanan
     menuju kesehatan dan kebahagiaan bersama!
 
-description: >-
+description: >
   Terapi Bekam adalah salah satu pengobatan tradisional yang disunnahkan oleh Nabi,
   untuk itu hendaknya berbekam sebulan sekali apalagi pada tanggal-tanggal sunnah tentunya.
 
-subdescription: >-
-  Terapi Bekam adalah salah satu pengobatan tradisional yang disunnahkan oleh Nabi,
-  untuk itu hendaknya berbekam sebulan sekali apalagi pada tanggal-tanggal sunnah tentunya test test.
+subdescription: >
+  Terapi Totok Punggung adalah salah satu pengobatan tradisional yang sederhana,
+  untuk menstimulasi saraf dan melancarkan sirkulasi darah.
 intro:
   blurbs:
     - image: /img/Bekam.jpg
       text: >
         Terapi Bekam ala Nabi yang menyehatkan, berilah tubuhmu hak untuk sehat untuk bisa beraktivitas tanpa adanya batas.
-    - image: /img/Titik.jpg
+    - image: /img/alatbekam.jpg
       text: >
-       Titik-titik tertentu yang memiliki fungsi untuk mengetahui penyakit yang sedang diderita oleh tubuh.
-    - image: /img/Alat.jpg
+       Alat bekam yang steril dan jarum bekam yang steril serta penanganan profesional dari terapis kami.
+    - image: /img/totok.webp
       text: >
-        Alat bekam yang memadai dan steril, juga terjamin kebersihannya. Jarum bekam yang digunakan juga steril. 
-    - image: /img/Akupuntur.jpg
+        Terapi tradisional Totok Punggung dengan penanganan ahli dan alami dengan gerakan asli buatan orang Indonesia. 
+    - image: /img/tk.jpeg
       text: >
-       Terapi akupunktur adalah teknik pengobatan yang dilakukan dengan cara menusukkan jarum kecil dan halus pada titik-titik tertentu di tubuh. Di samping dapat menghilangkan rasa sakit, terapi akupunktur diketahui memiliki beragam manfaat lain untuk kesehatan.
+       Alat bantu untuk Totok Punggung terbuat dari kayu atau plastik yang dapat membantu membiaskan atau meluruhkan sumbatan yang terdapat dalam tubuh pasien yang bermasalah.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
